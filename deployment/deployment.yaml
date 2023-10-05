@@ -22,4 +22,4 @@ spec:
         - containerPort: 80
         env:
           - name: node
-            value: qqqqq
+            value: wwww
