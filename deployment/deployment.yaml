@@ -20,3 +20,6 @@ spec:
         image: 433474711752.dkr.ecr.us-east-2.amazonaws.com/eks-test-1:latest
         ports:
         - containerPort: 80
+        env:
+          - name: node
+            value: stage
