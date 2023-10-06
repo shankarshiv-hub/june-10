@@ -21,5 +21,5 @@ spec:
         ports:
         - containerPort: 80
         env:
-          - name: node
+          - name: node-11
             value: wwww
